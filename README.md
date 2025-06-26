@@ -16,5 +16,8 @@ Este projeto demonstra um sistema simples de customização de personagem feito 
 ## Capturas de tela
 ![Image](https://github.com/user-attachments/assets/c2fa9455-a78e-4325-8ca0-839dbd38048a)
 
+
+🎥 [Assista ao vídeo de demonstração no YouTube](https://youtu.be/ljBDMSo3byM)
+
 ## Autor
 Welisson Ribeiro - [LinkedIn](https://linkedin.com/in/welisson-ribeiro) | [DeviantArt](https://www.deviantart.com/hellwel)
