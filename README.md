@@ -17,4 +17,4 @@ Este projeto demonstra um sistema simples de customização de personagem feito 
 ![Image](https://github.com/user-attachments/assets/c2fa9455-a78e-4325-8ca0-839dbd38048a)
 
 ## Autor
-Welisson Ribeiro - [LinkedIn](https://linkedin.com/in/welisson-ribeiro) | [DeviantArt]([https://deviantart.com/seulink](https://www.deviantart.com/hellwel/gallery))
+Welisson Ribeiro - [LinkedIn](https://linkedin.com/in/welisson-ribeiro) | [DeviantArt](https://www.deviantart.com/hellwel)
