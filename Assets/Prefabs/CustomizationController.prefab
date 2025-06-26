@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2827128560809801578
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 543404053304805337}
+  - component: {fileID: 481051826558692110}
+  - component: {fileID: 4302278293109151920}
+  - component: {fileID: 5167416750378620107}
+  - component: {fileID: 1804669456311026246}
+  - component: {fileID: 7888332346874012625}
+  - component: {fileID: 8009078179628130619}
+  m_Layer: 0
+  m_Name: CustomizationController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &543404053304805337
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2827128560809801578}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 454.7428, y: 440.04083, z: -0.1199096}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &481051826558692110
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2827128560809801578}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 444783dd618ee1c40a7d0f53b26198df, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maleModel: {fileID: 0}
+  femaleModel: {fileID: 0}
+--- !u!114 &4302278293109151920
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2827128560809801578}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 151b41c89c73f2d47acad93ba5b1b18e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bodyRenderer: {fileID: 0}
+  skinMaterials:
+  - {fileID: -340941064668389269, guid: 90c7bd4e80eb6f2419751dd4c39e617f, type: 3}
+  - {fileID: 2100000, guid: 847378725594dea46b13935459311b38, type: 2}
+  - {fileID: 2100000, guid: bbfb3fe8fd47ec5419cc95f62ebf79d6, type: 2}
+--- !u!114 &5167416750378620107
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2827128560809801578}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36dbca61a4fd9664bbe0aba801c2aec8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hairModels:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+--- !u!114 &1804669456311026246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2827128560809801578}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0a31b40766f98344b5e21b40b278ca7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hairChanger: {fileID: 5167416750378620107}
+  hairColors:
+  - {fileID: 2100000, guid: 14a11bc4fba0bf645893e7bae060460d, type: 2}
+  - {fileID: 2100000, guid: 3976828eae8023a478abc45a4585d26c, type: 2}
+  - {fileID: 2100000, guid: 523d8a99c1b4c8140afab4c228936b21, type: 2}
+  - {fileID: 2100000, guid: 4656d01bf60229549bc7ae044fb5928e, type: 2}
+--- !u!114 &7888332346874012625
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2827128560809801578}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1688d806cb817241b5dd513f2e075e4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  beardModels:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+--- !u!114 &8009078179628130619
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2827128560809801578}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dd386c1b0365a84eaca9b0dbaa418b6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  beardChanger: {fileID: 7888332346874012625}
+  beardColors:
+  - {fileID: 2100000, guid: 14a11bc4fba0bf645893e7bae060460d, type: 2}
+  - {fileID: 2100000, guid: 3976828eae8023a478abc45a4585d26c, type: 2}
+  - {fileID: 2100000, guid: 523d8a99c1b4c8140afab4c228936b21, type: 2}
+  - {fileID: 2100000, guid: 4656d01bf60229549bc7ae044fb5928e, type: 2}
+  - {fileID: 2100000, guid: 6005b20e9d0dff24da19acbdf6731755, type: 2}
