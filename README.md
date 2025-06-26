@@ -17,7 +17,13 @@ Este projeto demonstra um sistema simples de customização de personagem feito 
 ![Image](https://github.com/user-attachments/assets/c2fa9455-a78e-4325-8ca0-839dbd38048a)
 
 
-🎥 [Assista ao vídeo de demonstração no YouTube](https://youtu.be/ljBDMSo3byM)
+## 🎥 Demonstração
+
+[![Veja o demo da customização no YouTube](https://img.youtube.com/vi/ljBDMSo3byM/hqdefault.jpg)](https://youtu.be/ljBDMSo3byM)
+
+Aqui você pode ver o sistema de customização de personagem em ação: troca de cores, cabelo e barba em tempo real dentro do Unity.
+
+
 
 ## Autor
 Welisson Ribeiro - [LinkedIn](https://linkedin.com/in/welisson-ribeiro) | [DeviantArt](https://www.deviantart.com/hellwel)
